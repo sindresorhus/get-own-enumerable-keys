@@ -1,6 +1,6 @@
 {
 	"name": "get-own-enumerable-keys",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Like `Object.keys()` but also includes symbols",
 	"license": "MIT",
 	"repository": "sindresorhus/get-own-enumerable-keys",
